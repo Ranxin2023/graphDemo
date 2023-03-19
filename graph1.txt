@@ -1,0 +1,6 @@
+5
+A: BB, EE
+BB: A, EE
+CC: DD
+DD: CC, EE
+EE: A, BB, DD
